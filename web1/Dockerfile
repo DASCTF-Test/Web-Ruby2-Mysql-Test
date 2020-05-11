@@ -1,4 +1,4 @@
-FROM glzjin/base_ruby2_mysql
+FROM dasctfbase/web_ruby2_mysql
 
 COPY src /app/
 
